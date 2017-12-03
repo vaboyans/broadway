@@ -5,4 +5,29 @@ html{
 .background{
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
   color: white;
+  font-weight: bold;
+}
+h1{
+  font-size: 70px;
+  font-weight: bold;
+}
+h2{
+  font-weight: bold;
+  font-size: 32px;
+}
+h3{
+  font-size: 23px;
+}
+h4{
+  font-size: 23px;
+  font-weight: bold;
+}
+.footer{
+  text-align: left;
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+}
+.link{
+  text-decoration: underline;
 }
